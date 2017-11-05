@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/expand_header.xml",
+        "source": "/WikitudeSDK/Examples/NativeSDKExamples/app/src/main/res/layout/expand_header.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/activity_main.xml",
+        "source": "/WikitudeSDK/Examples/NativeSDKExamples/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/activity_on_click_cloud_tracking.xml",
+        "source": "/WikitudeSDK/Examples/NativeSDKExamples/app/src/main/res/layout/activity_on_click_cloud_tracking.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_search_view.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/design_navigation_item.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/zisis/.android/build-cache/774eeb1231c586fbd70ac30224912bd10f9dc0f0/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/zisis/.android/build-cache/774eeb1231c586fbd70ac30224912bd10f9dc0f0/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/zisis/.android/build-cache/67c23df9fd15de64abf20b75f5d44a5a49256e39/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/zisis/.android/build-cache/67c23df9fd15de64abf20b75f5d44a5a49256e39/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/notification_media_action.xml",
+        "source": "/Users/zisis/.android/build-cache/67c23df9fd15de64abf20b75f5d44a5a49256e39/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/zisis/.android/build-cache/67c23df9fd15de64abf20b75f5d44a5a49256e39/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/notification_template_media.xml",
+        "source": "/Users/zisis/.android/build-cache/67c23df9fd15de64abf20b75f5d44a5a49256e39/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/notification_action.xml",
+        "source": "/Users/zisis/.android/build-cache/774eeb1231c586fbd70ac30224912bd10f9dc0f0/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/zisis/.android/build-cache/67c23df9fd15de64abf20b75f5d44a5a49256e39/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/zisis/.android/build-cache/67c23df9fd15de64abf20b75f5d44a5a49256e39/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/activity_instant_tracking.xml",
+        "source": "/WikitudeSDK/Examples/NativeSDKExamples/app/src/main/res/layout/activity_instant_tracking.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/expand_row.xml",
+        "source": "/WikitudeSDK/Examples/NativeSDKExamples/app/src/main/res/layout/expand_row.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/tooltip.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/zisis/.android/build-cache/67c23df9fd15de64abf20b75f5d44a5a49256e39/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/zisis/.android/build-cache/774eeb1231c586fbd70ac30224912bd10f9dc0f0/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/zisis/.android/build-cache/67c23df9fd15de64abf20b75f5d44a5a49256e39/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/activity_extended_tracking.xml",
+        "source": "/WikitudeSDK/Examples/NativeSDKExamples/app/src/main/res/layout/activity_extended_tracking.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/zisis/.android/build-cache/774eeb1231c586fbd70ac30224912bd10f9dc0f0/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/activity_continuous_cloud_tracking.xml",
+        "source": "/WikitudeSDK/Examples/NativeSDKExamples/app/src/main/res/layout/activity_continuous_cloud_tracking.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/activity_camera_control.xml",
+        "source": "/WikitudeSDK/Examples/NativeSDKExamples/app/src/main/res/layout/activity_camera_control.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/drop_down_alert.xml",
+        "source": "/WikitudeSDK/Examples/NativeSDKExamples/app/src/main/res/layout/drop_down_alert.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/layout/abc_action_mode_bar.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

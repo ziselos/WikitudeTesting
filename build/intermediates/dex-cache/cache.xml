@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.0/db09a97f4f0db8892c1a0111a4b966f97920d082/support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/support-annotations-26.0.0_c2b33660f3313bec5dc68b453e711c3e54cd264c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/d6dbcec692699b09664cc697e8301e6b6e4ef48a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="775715f20fc19479343592af2fa4d46c7d00fa5e">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_ff34f3a574d41f6454936228a9c4295b90cf30b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/WikitudeSDK/Examples/NativeSDKExamples/plugins/build/intermediates/bundles/allarchsRelease/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7a7752923cad0f37d7ca3f0531475495f20e42b4">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_719602b683acda8b46646b340f256e0964008511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/d3aa122facf61bc8e6c81444b625bd59268dd1d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_128503d7f4ad62cc208a1cd8ab4356d416f94824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_cce34160a87c0e5ce46bbbf271003345dd1a81b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/b8da301bdaf9aca2422a3072ae2994b80c1f1d91/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_4d572a6a0c363e9e4a0e1396ba4798c30cfb62e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/f96c984bc918a06949c6b714d004bb09439d9ea9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_3a094eb19cb42d91f32cb93a85488fc80392ab3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/ad80d15ff5f039d5781bae3cd62a62aca461d337/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2e2a7725bc428a2a8f4ea63c49d6e108201b325">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_2c01233b0307090a0202d8d89115d780c4ca0575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/774eeb1231c586fbd70ac30224912bd10f9dc0f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_40fd6018b061c28f6272834768b5a0c7d77b62cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/cbcf594c7c59235d0973cb69af719119465df40e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_a624b02914855ee6ae0b4e857933f840269c0e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/fc2ceed8196967bb616704fddf6fd7b4382fdc65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd2e7a567260ca4e40c09ba330f4f2d318660554">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_9638b5c0aa16ffc9a62cc64a17d6f1326e6daef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/5c7af2fa21a70b4f9c092a4987cdf9d3169e1810/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_d5c9dc74f7deabd4921067b259cf268441a3863f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/5b250424c6ab599524852ee5a782b39c61e1abd8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_b9ac89a723b10ba01189b5f55780e2c5b80746b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d30ac0c26495d7264529e333cec806eec64dd6f3">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_12409e563bc96c67c9c4c8c881e2fd8964919813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/67c23df9fd15de64abf20b75f5d44a5a49256e39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_858bae7a14085f879889c7349b93f9d6d9d1bb3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/d20f8262521775a2a8e81748d80f379d90da799f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_5764353db130ab0edf6d805666b97de4ad93eece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zisis/.android/build-cache/a793ee1f26b636fa7863f9a1daf776d2e857eca4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/pre-dexed/allarchs/debug/classes_1f7970d8e6064ef8f8a442cf5c25f9a536e523c1.jar" />
+    </item>
+
+</items>

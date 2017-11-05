@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/zisis/.android/build-cache/774eeb1231c586fbd70ac30224912bd10f9dc0f0/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/zisis/.android/build-cache/774eeb1231c586fbd70ac30224912bd10f9dc0f0/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout-v21/notification_action.xml",
+        "source": "/Users/zisis/.android/build-cache/774eeb1231c586fbd70ac30224912bd10f9dc0f0/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/zisis/.android/build-cache/774eeb1231c586fbd70ac30224912bd10f9dc0f0/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

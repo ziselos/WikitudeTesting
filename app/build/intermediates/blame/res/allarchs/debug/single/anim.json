@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/tooltip_exit.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/abc_fade_out.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/tooltip_enter.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/abc_fade_in.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/anim/abc_popup_exit.xml"
+    }
+]

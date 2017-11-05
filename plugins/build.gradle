@@ -1,0 +1,57 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion commonCompileSdkVersion
+    buildToolsVersion commonBuildToolsVersion
+
+    defaultConfig {
+        minSdkVersion commonMinSdkVersion
+        targetSdkVersion commonTargetSdkVersion
+    }
+
+    flavorDimensions "arch"
+
+    defaultPublishConfig "allarchsRelease"
+    publishNonDefault true
+
+    productFlavors {
+        arm7 {
+            dimension "arch"
+            externalNativeBuild {
+                ndkBuild {
+                    abiFilters 'armeabi-v7a'
+                }
+            }
+        }
+        arm8 {
+            dimension "arch"
+            externalNativeBuild {
+                ndkBuild {
+                    abiFilters 'arm64-v8a'
+                }
+            }
+        }
+        x86 {
+            dimension "arch"
+            externalNativeBuild {
+                ndkBuild {
+                    abiFilters 'x86'
+                }
+            }
+        }
+        allarchs {
+            dimension "arch"
+            externalNativeBuild {
+                ndkBuild {
+                    abiFilters 'x86', 'armeabi-v7a', 'arm64-v8a'
+                }
+            }
+        }
+    }
+
+    externalNativeBuild {
+        ndkBuild {
+            path "src/main/cpp/jni/Android.mk"
+        }
+    }
+}

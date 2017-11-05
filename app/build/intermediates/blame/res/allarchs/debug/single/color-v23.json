@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/zisis/.android/build-cache/6219d84e6d86e4b2201fa69a584e85f321b6f2f1/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/WikitudeSDK/Examples/NativeSDKExamples/app/build/intermediates/res/merged/allarchs/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/zisis/.android/build-cache/1b26e8ac59eb74f8acea5c8b63a21a6549b10e23/output/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]

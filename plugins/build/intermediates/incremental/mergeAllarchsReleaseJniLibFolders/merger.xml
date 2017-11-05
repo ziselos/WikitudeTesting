@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/WikitudeSDK/Examples/NativeSDKExamples/plugins/src/main/jniLibs"/></dataSet><dataSet config="allarchs"><source path="/WikitudeSDK/Examples/NativeSDKExamples/plugins/src/allarchs/jniLibs"/></dataSet><dataSet config="release"><source path="/WikitudeSDK/Examples/NativeSDKExamples/plugins/src/release/jniLibs"/></dataSet><dataSet config="allarchsRelease"><source path="/WikitudeSDK/Examples/NativeSDKExamples/plugins/src/allarchsRelease/jniLibs"/></dataSet></merger>

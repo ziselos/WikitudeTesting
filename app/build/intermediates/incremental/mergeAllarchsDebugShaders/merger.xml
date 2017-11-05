@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/WikitudeSDK/Examples/NativeSDKExamples/app/src/main/shaders"/></dataSet><dataSet config="allarchs"><source path="/WikitudeSDK/Examples/NativeSDKExamples/app/src/allarchs/shaders"/></dataSet><dataSet config="debug"><source path="/WikitudeSDK/Examples/NativeSDKExamples/app/src/debug/shaders"/></dataSet><dataSet config="allarchsDebug"><source path="/WikitudeSDK/Examples/NativeSDKExamples/app/src/allarchsDebug/shaders"/></dataSet></merger>
